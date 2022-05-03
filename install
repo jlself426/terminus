@@ -1,0 +1,21 @@
+echo "# terminus" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jlself426/terminus.git
+git push -u origin main
+/src/com/jotform/api/JotformAPIWrapper.java
+/src/com/jotform/api/JotformException.java
+/src/com/jotform/api/samples/GetTodaysSubmissions.java
+/src/com/jotform/api/samples/PrintFormList.java
+/src/org/json/JSONArray.java
+/src/org/json/JSONException.java
+/src/org/json/JSONObject.java
+/src/org/json/JSONString.java
+/src/org/json/JSONStringer.java
+/src/org/json/JSONTokener.java
+/src/org/json/JSONWriter.java
+/lib/commons-logging-1.1.1.jar
+/lib/httpclient-4.2.5.jar
+/lib/httpcore-4.2.4.jar
